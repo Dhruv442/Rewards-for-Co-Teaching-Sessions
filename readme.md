@@ -5,6 +5,8 @@ The "Rewards for Co-Teaching Sessions" smart contract is designed to incentivize
 
 ## Contract Address
 0xc6ce0d968DB073112cf423c683Ca8A66dD7aE809
+![Screenshot 2024-12-21 142814](https://github.com/user-attachments/assets/2f287542-a117-46ac-b5a9-0a83f3a458bd)
+
 
 ## Project Vision
 Our vision is to create a fair and transparent system that encourages co-teaching and collaboration among educators. By rewarding teachers for their time and effort, we aim to foster a culture of shared knowledge and mutual growth.
